@@ -1,0 +1,31 @@
+html {
+    background-color: rgb(134, 192, 132);
+}
+
+body {
+    width: 500px;
+    height: 700px;
+    margin: auto;
+    padding: 50px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: oldlace;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+button {
+    background-color: rgb(134, 192, 132);
+    border: 1px solid rgb(134, 192, 132);
+    padding: 2px 15px;
+    font-size: 20px;
+}
+
+button:hover {
+    border: 1px solid black;
+    background-color: red;
+    border: 1px solid black;
+}
